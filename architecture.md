@@ -108,7 +108,6 @@ graph TD
 - Keyboard shortcuts (Enter to send)
 
 ## Security Considerations
-- API key stored in client-side config (user responsibility)
 - No sensitive data storage
 - HTTPS recommended for production use
 - Rate limiting handled by Gemini API
@@ -136,4 +135,5 @@ graph TD
 - Chat export functionality
 - Multiple cat personalities
 - Theme customization
+
 - Offline mode with cached responses
